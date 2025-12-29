@@ -1,0 +1,56 @@
+{
+    "roofing": {
+        "company_name": "Roofing Company",
+        "phone_numbers": {
+            "primary": "386-282-0000",
+            "secondary": ""
+        },
+        "locations": {
+            "location_1": "111 Sarasota Center Sarasota, Fl 34240",
+            "location_2": "222 Sarasota Center Sarasota, Fl 34240",
+            "location_3": "Location 3"
+        },
+        "reviews": [
+            {
+                "review": "Review 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+                "author": "Author 1"
+            },
+            {
+                "review": "Review 2 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+                "author": "Author 2"
+            },
+            {
+                "review": "Review 3 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+                "author": "Author 3"
+            }
+        ],
+        "gbp_link": "https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d1819216.9929082047!2d-83.29412664879573!3d27.773572969604466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbb0df42b4acf047%3A0x3311394525191a52!2sAll%20Coast%20Window%20and%20Door!5e1!3m2!1sen!2sin!4v1762505255983!5m2!1sen!2sin"
+    },
+    "windows": {
+        "company_name": "Windows Company",
+        "phone_numbers": {
+            "primary": "386282-0000",
+            "secondary": "386282-0000"
+        },
+        "locations": {
+            "location_1": "111 Sarasota Center Sarasota, Fl 34240",
+            "location_2": "222 Sarasota Center Sarasota, Fl 34240",
+            "location_3": "Location 3"
+        },
+        "reviews": [
+            {
+                "review": "Window Review 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+                "author": "Author 1"
+            },
+            {
+                "review": "Window Review 2 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+                "author": "Author 2"
+            },
+            {
+                "review": "Window Review 3 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+                "author": "Author 3"
+            }
+        ],
+        "gbp_link": "https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d1819216.9929082047!2d-83.29412664879573!3d27.773572969604466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbb0df42b4acf047%3A0x3311394525191a52!2sAll%20Coast%20Window%20and%20Door!5e1!3m2!1sen!2sin!4v1762505255983!5m2!1sen!2sin"
+    }
+}
