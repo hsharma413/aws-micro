@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       });
 
-    <!--  END Esc to close custom lightbox  -->
+    // END Esc to close custom lightbox
 
 
       function getCookie(name) {

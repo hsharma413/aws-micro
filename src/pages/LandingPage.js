@@ -2,6 +2,7 @@ import { useContext } from "react";
 import { Link, useParams } from "react-router-dom";
 import MicroContext from "../context/MicroContext";
 import Gallery from "../components/Gallery";
+import LightBox from "../components/lightbox";
 import Reviews from "../components/Reviews";
 import TrustedLogos from "../components/TrustedLogos";
 import FormattedContent from "../components/FormattedContent";
@@ -131,6 +132,7 @@ const LandingPage = () => {
                       alt=""
                       className="img-cover-mh30"
                     />
+
                   </div>
                   <div className="content-wrapper padding-small">
                     <h2 className="heading-style-h4">{data?.special_offer_cta_heading}</h2>
@@ -230,8 +232,10 @@ const LandingPage = () => {
           </div>
         </div>
       </div>
-
+      
+       <LightBox />
       <Gallery />
+     
       <TrustedLogos />
       <Reviews />
 
